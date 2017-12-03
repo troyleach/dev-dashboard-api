@@ -9,6 +9,7 @@ end
 gem 'bcrypt', '~> 3.1.11'
 gem 'jwt'
 gem 'active_model_serializers'
+gem 'will_paginate', '~> 3.1.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
